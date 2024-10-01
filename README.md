@@ -1,6 +1,6 @@
 <!--## Hi there 👋-->
 
-[![codewars](https://www.codewars.com/users/vl4xd/badges/small)](https://www.codewars.com/users/vl4xd)
+<!--[![codewars](https://www.codewars.com/users/vl4xd/badges/small)](https://www.codewars.com/users/vl4xd)-->
 
 <!--https://www.youtube.com/watch?v=MZT37vCQ-4Y-->
 <!--https://github.com/Platane/snk?tab=readme-ov-file-->
